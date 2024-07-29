@@ -6,7 +6,7 @@ const chalk = require('chalk');
 global.owner = ['6285868755849']
 global.packname = 'stikkerrr'
 global.author = 'SethB~'
-global.botname = 'Seth-Bot'
+global.botname = 'Seth Alston'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 
